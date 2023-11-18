@@ -1,0 +1,13 @@
+{
+	"combatCapital":{
+		"arismpm_atlas2_Standard":10
+	},
+	"combatFreighterLarge":{
+		"arismpm_venture_Balanced":4,
+		"arismpm_venture_Outdated":4,
+		"arismpm_venture_Exploration":3
+	},
+	"freighterLarge":{
+		"arismpm_atlas_Standard":10
+	}
+}

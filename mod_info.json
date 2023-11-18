@@ -1,6 +1,7 @@
 {
   	"id":"arismpm",
 	"name":"ARIS Refit Ship Pack",
+    "author": "Captain Michael",
 	"version":"1.0.0",
 	"description":"Contains redesigns of Atlas, Atlas MK. II and Venture in the style and flavor of the Apogee, with some Midline upgrades.",
 	"gameVersion":"0.96a-RC8"
